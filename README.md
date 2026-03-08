@@ -3,3 +3,10 @@
 <p>i use various resources to learn and master programming rather than focusing on language.
         I will be focusing in the language awhile maintaining the ultimate goal for learning programming.
     </p>
+    <h2>Main Purpose</h2>
+    <ul>
+        <li>DSA</li>
+        <li>Memory Management</li>
+        <li>Going low level</li>
+        <li>DOing Smth sys related</li>
+    </ul>
